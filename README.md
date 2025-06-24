@@ -106,7 +106,7 @@ Follow these steps to set up the project environment and install the required de
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/TuringCollegeSubmissions/lleche-DS.v3.2.2.5.git
+    git clone https://github.com/LauraLechermann/AB-Testing-Project__Fastfood-Marketing-Campaign.git
     ```
 2. Navigate to the project directories:
     ```bash
